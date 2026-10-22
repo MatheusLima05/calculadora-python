@@ -25,3 +25,14 @@ Calculadora desenvolvida em Python com interface gráfica utilizando Tkinter.
 
 ```bash
 git clone https://github.com/MatheusLima05/calculadora-python.git
+cd calculadora-python
+py calculadora.py
+```
+
+## Objetivo
+
+Projeto de estudo para praticar Python, criação de interfaces gráficas, tratamento de erros e operações matemáticas.
+
+## Autor
+
+Matheus Lima
