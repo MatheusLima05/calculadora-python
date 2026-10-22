@@ -33,6 +33,10 @@ py calculadora.py
 
 Projeto de estudo para praticar Python, criação de interfaces gráficas, tratamento de erros e operações matemáticas.
 
+## 📸 Demonstração
+
+![Calculadora em Python](calculadora.png)
+
 ## Autor
 
 Matheus Lima
